@@ -1,0 +1,19 @@
+{
+  "name": "binary-search-pankaj",
+  "version": "1.0.0",
+  "description": "A simple binary search implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "algorithm"
+  ],
+  "author": "pankaj kumar",
+  "license": "MIT",
+  "dependencies": {
+    "binary-search-pankaj": "file:"
+  }
+}
